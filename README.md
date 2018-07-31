@@ -1,2 +1,13 @@
-# twitter_sentiment
-twitter data scraping &amp; sentiment analysis - tweepy/pandas/numpy/matplotlib
+
+# project-one
+
+## Team: Post-Modern Bash     
+
+### Team Members:
+#### Nameyeh Alam
+#### Jessica Gutierrez
+#### Emre Celik
+#### Madeleine Cieslak
+#### Stefan Sampaleanu
+
+
